@@ -24,8 +24,8 @@ The dataset consists of three columns: userId, movieId, and rating. The userId c
 2. User Preferences: The analysis of user behavior and rating patterns suggests that users have different preferences and biases when it comes to rating movies. This could be used to develop more accurate recommendation systems or to identify niche audiences.
 3. Movie Quality: The rating distribution and user behavior suggest that movie quality may be improving over time, leading to higher ratings. This could be due to advances in filmmaking technology, changes in audience preferences, or the increasing popularity of certain genres.
 
-**Recommendations
-**
+**Recommendations**
+
 1. Control for Rating Inflation: To account for rating inflation, it may be necessary to adjust the rating scale over time or to use a more robust rating system.
 2. Personalized Recommendations: The segmentation of users based on their rating behavior could be used to develop more accurate and personalized recommendation systems.
 3. Movie Quality Analysis: Further analysis of the dataset could be used to identify trends in movie quality and to develop more accurate metrics for evaluating movie performance.
